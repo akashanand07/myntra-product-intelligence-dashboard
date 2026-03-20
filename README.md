@@ -107,7 +107,7 @@ Key Features:
 
 📊 Dashboard Preview
 
-"Dashboard" (images/dashboard.png)
+[Dashboard](powerbi/Dashboard.png)
 
 ---
 
