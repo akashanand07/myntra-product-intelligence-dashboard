@@ -26,6 +26,7 @@ The project follows a complete analytics pipeline:
 - Source: Myntra Fashion Product Dataset (Kaggle)
 - Size: 526K+ products
 - Key Challenge: 300K+ missing values in ratings & reviews
+- Dataset link- https://www.kaggle.com/datasets/manishmathias/myntra-fashion-dataset
 
 ---
 
