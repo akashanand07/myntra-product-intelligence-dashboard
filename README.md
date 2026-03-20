@@ -95,19 +95,12 @@ Key Features:
 
 ---
 
-📂 Project Structure
-
-- 📁 "data/" → Raw & cleaned datasets
-- 📓 "notebooks/" → Python analysis
-- 🧠 "sql/" → SQL queries
-- 📊 "dashboard/" → Power BI dashboard
-- 🖼️ "images/" → Dashboard screenshots
 
 ---
 
 📊 Dashboard Preview
 
-[Dashboard](powerbi/Dashboard.png)
+![Dashboard](powerbi/Dashboard.png)
 
 ---
 
